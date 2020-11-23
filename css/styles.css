@@ -1,0 +1,9 @@
+main.container {
+  padding-top: 56px;
+}
+
+.carousel-caption {
+  bottom: auto;
+  top: 50%;
+  transform: translateY(-50%);
+}
